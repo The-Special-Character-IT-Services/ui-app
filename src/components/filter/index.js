@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import List from "../List";
-import FilterLogo from "./../../filter.svg";
+import FilterLogo from "./../../iconfinder_Filter.svg";
 
 class Filter extends Component {
   state = { show: false };
