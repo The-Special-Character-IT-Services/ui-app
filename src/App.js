@@ -1,9 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
+import Filter from './components/filter'
 
 function App() {
   return (
-    <h1>Hello From App</h1>
+    <div id="root">
+       <Filter/>
+    </div>
   );
 }
 
